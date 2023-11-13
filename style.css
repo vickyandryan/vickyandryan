@@ -1,0 +1,34 @@
+.nav-item {
+    color: white;
+    text-decoration: none;
+}
+
+.jumbotron {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 6rem;
+}
+
+#about {
+    background-color: black;
+    color: white;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+#project {
+    background-color: black;
+    color: chartreuse;
+    padding-top: 5rem;
+}
+
+#contact {
+    background-color:rgb(29, 29, 29);
+    color: white;
+    padding-top: 5rem;
+}
+
+.offcanvas-body {
+    padding-top: 4rem;
+}
